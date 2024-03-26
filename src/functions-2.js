@@ -162,3 +162,8 @@ ex: sumMinArrays([
 
 const countdownarray = (num) => Array.from(Array(num+1).keys()).reverse()
 console.log(countdownarray(10))
+
+
+//Create a function that takes two numbers and a math operator (+,-,/,*) and will perform a calculation with the given numbers.
+//cal(2,"+",3) the output is 5.
+
