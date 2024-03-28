@@ -129,4 +129,4 @@ const getdays = (date1, date2) => {
     return new Date(date2 - date1).getDate() - 1
 }
 
-console.log(getdays(new Date("March 26, 2024"), new Date("March 30, 2024")))
+console.log(getdays(new Date("March 26, 2024"), new Date("March 31, 2024")))
